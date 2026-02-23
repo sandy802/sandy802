@@ -1,5 +1,23 @@
 # 💫 About Me:
-# Hi there 👋 I'm Sandesh Ghule<br><br>🔭 I’m currently working on  <br>Building scalable web applications with modern frameworks and exploring cloud-native solutions.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on  <br>Open-source projects related to full-stack development, DevOps automation, and innovative SaaS ideas.<br><br>🤝 I’m looking for help with  <br>Improving my knowledge of advanced system design patterns and contributing to impactful open-source communities.<br><br>🌱 I’m currently learning  <br>Kubernetes, microservices architecture, and advanced JavaScript/TypeScript techniques.<br><br>💬 Ask me about  <br>Web development, GitHub workflows, and tips for maintaining clean, efficient codebases.<br><br>⚡ Fun fact  <br>I love blending creativity with logic — whether it’s coding, solving puzzles, or experimenting with new tech tools!<br>
+Hi there 👋 I'm Sandesh Ghule
+
+🔭 I’m currently working on
+Building data analysis projects using Python, SQL, and Power BI, and exploring real-world datasets to extract meaningful business insights.
+
+🧑‍🤝‍🧑 I’m looking to collaborate on
+Data analytics, data visualization, and machine learning projects, especially those focused on solving real-world business problems.
+
+🤝 I’m looking for help with
+Improving my knowledge of advanced SQL queries, data modeling, and machine learning concepts to strengthen my analytical skills.
+
+🌱 I’m currently learning
+Advanced SQL, Power BI dashboard optimization, Python for data analysis (Pandas, NumPy), and core machine learning fundamentals.
+
+💬 Ask me about
+Data cleaning, SQL queries, Power BI dashboards, Python data analysis, and building beginner-friendly data projects.
+
+⚡ Fun fact
+I enjoy turning raw data into meaningful insights and discovering patterns that help make smarter decisions!
 
 
 ## 🌐 Socials:
